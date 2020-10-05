@@ -1,3 +1,5 @@
+import re
+
 sentences_pattern = re.compile(r"(?<![A-Z]\.)(?<=\.|\?|\!|»)\s", flags=re.M)
 
 def split_into_sentences(text):
@@ -7,7 +9,7 @@ def split_into_sentences(text):
 print('A la recherche du temps perdu')
 print('-' * len('A la recherche du temps perdu'), '\n')
     
-for s in split_into_sentences(paragraphes[0]):
+for s in split_into_sentences(paragraphes_all[0]):
     print(s, '\n')
     
 # Pour la première phrase des Misérables 
