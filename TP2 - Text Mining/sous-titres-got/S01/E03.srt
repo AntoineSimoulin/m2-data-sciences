@@ -1,0 +1,3217 @@
+1
+00:02:14,343 --> 00:02:15,890
+Bienvenu, Lord Stark.
+
+2
+00:02:16,011 --> 00:02:19,060
+Le Grand Mestre Pycelle
+a convoqué le Conseil restreint.
+
+3
+00:02:19,181 --> 00:02:21,104
+Votre présence est requise.
+
+4
+00:02:22,643 --> 00:02:25,817
+Aidez les filles à s'installer.
+Je serai là pour le souper.
+
+5
+00:02:25,937 --> 00:02:28,611
+- Jory, accompagne-les.
+- Oui, monseigneur.
+
+6
+00:02:29,191 --> 00:02:32,115
+Si vous désirez passer
+des vêtements plus appropriés...
+
+7
+00:03:08,397 --> 00:03:10,650
+Dieu merci, vous voilà, Stark.
+
+8
+00:03:11,692 --> 00:03:14,866
+Nous allons enfin connaître
+la rigueur du Nord.
+
+9
+00:03:16,113 --> 00:03:17,831
+Je vois que vous protégez le trône.
+
+10
+00:03:17,948 --> 00:03:19,871
+Cette vieille chose.
+
+11
+00:03:19,991 --> 00:03:22,710
+Combien de culs de roi l'ont-ils poli,
+je me le demande ?
+
+12
+00:03:22,828 --> 00:03:24,205
+Comment dit-on ?
+
+13
+00:03:24,329 --> 00:03:27,629
+Le roi chie et la Main essuie.
+
+14
+00:03:28,625 --> 00:03:29,968
+Très belle armure.
+
+15
+00:03:31,169 --> 00:03:33,467
+- Elle n'a pas une égratignure.
+- Je sais.
+
+16
+00:03:33,588 --> 00:03:37,218
+Ils essayent depuis des années,
+mais ils me ratent toujours.
+
+17
+00:03:37,843 --> 00:03:39,891
+Vous avez bien choisi vos ennemis.
+
+18
+00:03:41,179 --> 00:03:43,181
+C'est mon point fort.
+
+19
+00:03:46,435 --> 00:03:49,439
+Ce doit être étrange pour vous,
+d'entrer dans cette salle.
+
+20
+00:03:51,857 --> 00:03:54,701
+Je me tenais ici
+quand ça s'est passé.
+
+21
+00:03:55,819 --> 00:03:57,742
+Votre frère était très courageux.
+
+22
+00:03:57,863 --> 00:03:59,615
+Votre père l'était aussi.
+
+23
+00:03:59,740 --> 00:04:01,834
+Ils ne méritaient pas
+de mourir comme cela.
+
+24
+00:04:01,950 --> 00:04:04,749
+Personne ne mérite de mourir comme cela.
+
+25
+00:04:04,870 --> 00:04:06,668
+Vous vous êtes contenté de regarder.
+
+26
+00:04:06,788 --> 00:04:09,712
+500 hommes se sont contentés
+de regarder.
+
+27
+00:04:10,542 --> 00:04:12,465
+Tous les chevaliers des Sept Couronnes.
+
+28
+00:04:12,586 --> 00:04:14,930
+Quelqu'un a-t-il dit
+ou fait quelque chose ?
+
+29
+00:04:16,131 --> 00:04:17,553
+Non, Lord Stark.
+
+30
+00:04:18,341 --> 00:04:21,766
+500 hommes, et cette salle était
+aussi silencieuse qu'une crypte.
+
+31
+00:04:23,847 --> 00:04:27,067
+À part les cris, bien sûr,
+
+32
+00:04:27,184 --> 00:04:29,107
+et le rire du Roi Fou.
+
+33
+00:04:29,227 --> 00:04:30,854
+Et après...
+
+34
+00:04:32,063 --> 00:04:34,532
+quand j'ai regardé le Roi Fou mourir,
+
+35
+00:04:34,649 --> 00:04:37,903
+je me suis souvenu de son rire
+quand votre père brûlait.
+
+36
+00:04:39,321 --> 00:04:40,914
+Justice était rendue.
+
+37
+00:04:44,034 --> 00:04:46,583
+C'est ce que vous vous dites la nuit ?
+
+38
+00:04:47,746 --> 00:04:50,465
+Que vous êtes un serviteur de la justice ?
+
+39
+00:04:50,582 --> 00:04:55,088
+Venger mon père, en plantant votre épée
+dans le dos d'Aerys Targaryen ?
+
+40
+00:04:55,212 --> 00:04:59,968
+Dites-moi, si j'avais transpercé
+le Roi Fou dans l'estomac au lieu du dos,
+
+41
+00:05:00,091 --> 00:05:01,764
+m'admireriez-vous ?
+
+42
+00:05:02,928 --> 00:05:07,024
+Vous l'avez bien servi...
+quand le servir était sans danger.
+
+43
+00:05:20,070 --> 00:05:22,198
+Lord Stark.
+
+44
+00:05:24,741 --> 00:05:26,118
+Lord Varys.
+
+45
+00:05:26,243 --> 00:05:29,918
+Vos incidents sur la Route Royale
+m'ont effroyablement consterné.
+
+46
+00:05:30,038 --> 00:05:33,668
+Nous prions tous
+pour que Prince Joffrey recouvre la santé.
+
+47
+00:05:33,792 --> 00:05:37,012
+Quel dommage que vous n'ayez pas prié
+pour le garçon boucher.
+
+48
+00:05:38,255 --> 00:05:41,475
+Renly ! Vous semblez bien vous porter.
+
+49
+00:05:41,591 --> 00:05:43,264
+Et vous semblez las du voyage.
+
+50
+00:05:43,385 --> 00:05:45,604
+Ce Conseil pouvait attendre,
+mais...
+
+51
+00:05:45,720 --> 00:05:48,348
+Mais nous avons un royaume à gouverner.
+
+52
+00:05:49,307 --> 00:05:51,605
+Enfin je vous rencontre,
+Lord Stark.
+
+53
+00:05:51,726 --> 00:05:53,694
+Lady Catelyn a dû vous parler de moi.
+
+54
+00:05:53,812 --> 00:05:55,860
+En effet, Lord Baelish.
+
+55
+00:05:55,981 --> 00:05:58,404
+Vous connaissiez aussi mon frère Brandon.
+
+56
+00:05:58,525 --> 00:06:01,574
+Trop bien.
+Je porte encore un gage de son estime...
+
+57
+00:06:01,695 --> 00:06:03,618
+du nombril à la clavicule.
+
+58
+00:06:03,738 --> 00:06:05,786
+Mauvais choix de partenaire de duel.
+
+59
+00:06:05,907 --> 00:06:07,705
+Je n'avais pas choisi l'homme.
+
+60
+00:06:07,826 --> 00:06:10,124
+Mais Catelyn Tully.
+
+61
+00:06:10,245 --> 00:06:13,465
+Une femme qui en mérite la peine,
+n'est-ce pas ?
+
+62
+00:06:13,582 --> 00:06:16,210
+Pardonnez-moi, Lord Stark.
+
+63
+00:06:17,002 --> 00:06:18,800
+Grand Mestre.
+
+64
+00:06:18,920 --> 00:06:21,139
+Combien d'années se sont écoulées ?
+
+65
+00:06:21,256 --> 00:06:24,726
+- Vous étiez un jeune homme.
+- Et vous serviez un autre roi.
+
+66
+00:06:26,636 --> 00:06:29,310
+J'allais oublier.
+
+67
+00:06:30,974 --> 00:06:33,102
+Ceci vous appartient maintenant.
+
+68
+00:06:35,979 --> 00:06:37,572
+Pouvons-nous commencer ?
+
+69
+00:06:38,732 --> 00:06:40,655
+- Et le roi ?
+- L'hiver vient peut-être,
+
+70
+00:06:40,775 --> 00:06:43,870
+mais j'ai peur
+que cela ne soit pas le cas de mon frère.
+
+71
+00:06:43,987 --> 00:06:46,160
+Sa Majesté est très occupée.
+
+72
+00:06:46,281 --> 00:06:50,912
+Il s'en remet à notre foi pour l'éclairer
+sur les affaires de moindre importance.
+
+73
+00:06:51,036 --> 00:06:53,880
+Nous sommes
+les seigneurs des petites affaires.
+
+74
+00:06:59,044 --> 00:07:01,797
+Mon frère veut
+que nous organisions un tournoi
+
+75
+00:07:01,922 --> 00:07:04,300
+pour Lord Stark,
+la nouvelle Main du Roi.
+
+76
+00:07:04,424 --> 00:07:05,641
+Combien ?
+
+77
+00:07:05,759 --> 00:07:07,978
+40 000 dragons d'or pour le vainqueur,
+
+78
+00:07:08,094 --> 00:07:09,687
+20 000 pour le second,
+
+79
+00:07:09,804 --> 00:07:12,648
+20 000 pour le meilleur archer.
+
+80
+00:07:12,766 --> 00:07:15,235
+Le Trésor peut-il se permettre
+de telles dépenses ?
+
+81
+00:07:15,352 --> 00:07:17,980
+J'emprunterai aux Lannister.
+Ils y consentiront.
+
+82
+00:07:18,104 --> 00:07:21,483
+Nous devons à Lord Tywin trois millions.
+Que sont 80 000 de plus ?
+
+83
+00:07:21,608 --> 00:07:23,406
+La Couronne doit trois millions ?
+
+84
+00:07:23,526 --> 00:07:25,620
+La Couronne est endettée de six millions.
+
+85
+00:07:25,737 --> 00:07:27,284
+Comment est-ce possible ?
+
+86
+00:07:27,405 --> 00:07:31,626
+Le Grand Argentier trouve l'argent.
+Le roi et la Main le dépensent.
+
+87
+00:07:31,743 --> 00:07:34,872
+Jon Arryn n'aurait jamais permis à Robert
+de ruiner le royaume.
+
+88
+00:07:34,996 --> 00:07:38,125
+Lord Arryn conseillait
+sagement et prudemment,
+
+89
+00:07:38,249 --> 00:07:41,970
+mais je crains que Sa Majesté
+n'écoute pas toujours.
+
+90
+00:07:42,087 --> 00:07:44,590
+"Compter ses picaillons,"
+l'appelle-t-il.
+
+91
+00:07:45,423 --> 00:07:47,471
+Je lui parlerai demain.
+
+92
+00:07:47,592 --> 00:07:49,811
+Ce tournoi est une folie.
+
+93
+00:07:49,928 --> 00:07:52,181
+Mais nous devrions l'organiser
+quand même.
+
+94
+00:07:52,305 --> 00:07:55,354
+Personne ne fera rien...
+tant que je n'aurai parlé à Robert.
+
+95
+00:08:00,271 --> 00:08:02,365
+Pardonnez-moi, messires. Je suis...
+
+96
+00:08:02,482 --> 00:08:06,953
+- J'ai fait un long voyage.
+- Vous êtes la Main du Roi, Lord Stark.
+
+97
+00:08:07,070 --> 00:08:09,493
+Nous sommes à votre disposition.
+
+98
+00:08:16,329 --> 00:08:18,627
+- Aïe !
+- Je t'en prie, c'est presque guéri.
+
+99
+00:08:21,167 --> 00:08:24,512
+- C'est laid.
+- Un roi doit porter des cicatrices.
+
+100
+00:08:24,629 --> 00:08:28,179
+Tu t'es battu avec un loup-garou.
+Tu es un guerrier comme ton père.
+
+101
+00:08:28,299 --> 00:08:32,179
+Non, je ne le suis pas. Je n'ai rien battu.
+Il m'a mordu et j'ai crié.
+
+102
+00:08:32,804 --> 00:08:34,727
+Les deux filles Stark l'ont vu.
+
+103
+00:08:34,848 --> 00:08:38,068
+Ce n'est pas vrai. Tu as tué la bête.
+
+104
+00:08:38,184 --> 00:08:41,358
+Tu as épargné la fille grâce à l'estime
+que ton père a pour son père.
+
+105
+00:08:41,479 --> 00:08:42,856
+Je n'ai pas, je...
+
+106
+00:08:42,981 --> 00:08:47,612
+Pendant le règne d'Aerys Targaryen,
+ton père était un rebelle et un traître.
+
+107
+00:08:47,736 --> 00:08:51,331
+Un jour tu régneras
+et la vérité sera celle que tu voudras.
+
+108
+00:08:55,035 --> 00:08:56,878
+Dois-je l'épouser ?
+
+109
+00:08:57,787 --> 00:08:59,835
+Oui.
+
+110
+00:08:59,956 --> 00:09:02,084
+Elle est très jolie et jeune.
+
+111
+00:09:02,208 --> 00:09:05,382
+Si tu ne l'aimes pas,
+tu peux la voir seulement quand tu le dois
+
+112
+00:09:05,503 --> 00:09:09,758
+et lorsqu'il faudra faire
+des petits princes et princesses.
+
+113
+00:09:10,925 --> 00:09:14,930
+Si tu veux baiser les catins,
+qu'il en soit ainsi.
+
+114
+00:09:15,055 --> 00:09:17,558
+Si tu veux baiser des vierges,
+qu'il en soit ainsi.
+
+115
+00:09:17,682 --> 00:09:21,858
+Tu es mon fils adoré
+et le monde sera tel que tu le veux.
+
+116
+00:09:25,190 --> 00:09:27,784
+Sois gentil avec la fille Stark.
+
+117
+00:09:27,901 --> 00:09:29,903
+- Je ne veux pas.
+- Non, mais tu le feras.
+
+118
+00:09:30,695 --> 00:09:34,745
+Un peu de bienveillance te sera utile
+tout au long de ta vie.
+
+119
+00:09:34,866 --> 00:09:37,244
+Nous donnons aux gens du Nord
+trop de pouvoirs.
+
+120
+00:09:37,368 --> 00:09:39,962
+Ils se considèrent comme nos égaux.
+
+121
+00:09:40,080 --> 00:09:41,502
+Que ferais-tu ?
+
+122
+00:09:42,540 --> 00:09:44,463
+Je doublerais leurs impôts
+
+123
+00:09:44,584 --> 00:09:47,258
+et ils donneraient
+10 000 hommes pour la garde royale.
+
+124
+00:09:47,378 --> 00:09:48,550
+Une garde royale ?
+
+125
+00:09:48,671 --> 00:09:50,514
+Pourquoi confier les armées aux Lords ?
+
+126
+00:09:50,632 --> 00:09:52,634
+C'est archaïque, digne des clans.
+
+127
+00:09:52,759 --> 00:09:55,888
+Nous devrions avoir une armée
+d'hommes loyaux à la Couronne,
+
+128
+00:09:56,012 --> 00:09:57,730
+entraînée par des soldats avertis,
+
+129
+00:09:57,847 --> 00:10:01,442
+au lieu d'une foule de paysans
+qui n'ont jamais tenu une arme.
+
+130
+00:10:02,393 --> 00:10:03,940
+Si les gens du Nord se rebellent ?
+
+131
+00:10:04,062 --> 00:10:05,609
+Je les exterminerai.
+
+132
+00:10:05,730 --> 00:10:09,860
+Je prendrais Winterfell
+et y placerais un gouverneur du Nord loyal.
+
+133
+00:10:09,984 --> 00:10:11,327
+Oncle Kevan, peut-être.
+
+134
+00:10:11,444 --> 00:10:15,119
+Et ces 10 000 troupes du Nord,
+se battraient-elles pour toi ou leur Lord ?
+
+135
+00:10:15,240 --> 00:10:17,459
+Pour moi. Je suis leur roi.
+
+136
+00:10:17,575 --> 00:10:19,452
+Mais tu viens d'envahir leur pays,
+
+137
+00:10:19,577 --> 00:10:22,376
+- de demander de tuer leurs frères.
+- Je ne demande pas.
+
+138
+00:10:22,497 --> 00:10:25,421
+Le Nord ne peut être occupé
+par un étranger.
+
+139
+00:10:25,542 --> 00:10:27,510
+C'est un grand territoire sauvage.
+
+140
+00:10:27,627 --> 00:10:29,174
+L'hiver venu, les sept dieux
+
+141
+00:10:29,295 --> 00:10:31,639
+ne pourraient vous sauver,
+toi et ton armée royale.
+
+142
+00:10:31,756 --> 00:10:34,430
+Un bon roi sait
+quand préserver ses forces...
+
+143
+00:10:36,052 --> 00:10:38,430
+et quand détruire ses ennemis.
+
+144
+00:10:39,639 --> 00:10:41,107
+Donc vous êtes d'accord...
+
+145
+00:10:41,975 --> 00:10:43,477
+les Stark sont nos ennemis ?
+
+146
+00:10:46,020 --> 00:10:49,365
+Tous ceux qui ne sont pas nous...
+sont nos ennemis.
+
+147
+00:10:52,777 --> 00:10:54,996
+Ça suffit, jeune fille. Mange.
+
+148
+00:10:55,113 --> 00:10:57,161
+- Je m'entraîne.
+- Tu t'entraînes pour quoi ?
+
+149
+00:10:57,282 --> 00:10:59,205
+- Le prince.
+- Arya, arrête !
+
+150
+00:10:59,325 --> 00:11:02,499
+C'est un menteur et un peureux
+et il a tué mon ami.
+
+151
+00:11:02,620 --> 00:11:03,837
+Le Limier a tué ton ami.
+
+152
+00:11:03,955 --> 00:11:06,458
+Le Limier fait
+ce que le prince lui dit de faire.
+
+153
+00:11:06,583 --> 00:11:08,836
+- Idiote.
+- Tu as menti. Si tu avais dit la vérité,
+
+154
+00:11:08,960 --> 00:11:10,177
+Mycah serait en vie.
+
+155
+00:11:10,295 --> 00:11:11,672
+Assez !
+
+156
+00:11:14,340 --> 00:11:15,933
+Que se passe-t-il ici ?
+
+157
+00:11:16,050 --> 00:11:19,645
+Arya préfère se comporter
+comme un animal qu'une dame.
+
+158
+00:11:20,138 --> 00:11:22,357
+Va dans ta chambre.
+Nous parlerons après.
+
+159
+00:11:30,273 --> 00:11:31,900
+C'est pour toi, ma chérie.
+
+160
+00:11:41,701 --> 00:11:45,046
+Elle vient du marchand qui fait
+les jouets de la Princesse Myrcella.
+
+161
+00:11:47,207 --> 00:11:48,550
+Ne l'aimes-tu pas ?
+
+162
+00:11:49,375 --> 00:11:52,174
+Je n'ai pas joué à la poupée
+depuis mes huit ans.
+
+163
+00:11:53,504 --> 00:11:56,804
+- Puis-je m'en aller ?
+- Tu as à peine mangé.
+
+164
+00:11:57,634 --> 00:12:00,012
+Ce n'est pas grave. Vas-y.
+
+165
+00:12:09,395 --> 00:12:11,363
+Faire la guerre est plus simple.
+
+166
+00:12:17,570 --> 00:12:18,913
+Va-t'en !
+
+167
+00:12:19,030 --> 00:12:21,032
+Arya, ouvre la porte.
+
+168
+00:12:31,042 --> 00:12:33,215
+Puis-je entrer ?
+
+169
+00:12:39,759 --> 00:12:42,478
+- À qui appartient cette épée ?
+- À moi.
+
+170
+00:12:42,595 --> 00:12:44,222
+Donne-la-moi.
+
+171
+00:12:51,020 --> 00:12:53,864
+Je connais cette fabrication.
+C'est le travail de Mikken.
+
+172
+00:12:56,234 --> 00:12:57,781
+Où l'as-tu eue ?
+
+173
+00:13:01,823 --> 00:13:03,621
+Ce n'est pas un jouet.
+
+174
+00:13:06,077 --> 00:13:08,876
+- Une épée n'est pas un jouet.
+- Je ne jouais pas.
+
+175
+00:13:08,997 --> 00:13:10,874
+Et je ne veux pas être une dame.
+
+176
+00:13:11,749 --> 00:13:13,171
+Viens ici.
+
+177
+00:13:18,798 --> 00:13:20,766
+Que veux-tu faire avec cela ?
+
+178
+00:13:20,883 --> 00:13:22,885
+Elle s'appelle Aiguille.
+
+179
+00:13:24,053 --> 00:13:26,556
+Cette épée a un nom.
+
+180
+00:13:26,681 --> 00:13:29,025
+Et qui espères-tu embrocher
+avec Aiguille ?
+
+181
+00:13:29,142 --> 00:13:31,110
+Ta sœur ?
+
+182
+00:13:31,227 --> 00:13:33,480
+Que sais-tu du maniement de l'épée ?
+
+183
+00:13:33,604 --> 00:13:35,447
+Touche-les avec le bout pointu.
+
+184
+00:13:36,858 --> 00:13:38,280
+C'est le but.
+
+185
+00:13:41,529 --> 00:13:43,281
+J'essayais d'apprendre.
+
+186
+00:13:45,783 --> 00:13:47,785
+Mycah s'entraînait avec moi.
+
+187
+00:13:49,954 --> 00:13:53,379
+Je lui avais demandé.
+C'est ma faute.
+
+188
+00:13:54,125 --> 00:13:58,676
+Non, ma douce. Non, non,
+tu n'as pas tué le garçon boucher.
+
+189
+00:14:00,631 --> 00:14:03,180
+Je les déteste. Je les déteste tous.
+
+190
+00:14:03,301 --> 00:14:05,599
+Le Limier, la reine et le roi
+
+191
+00:14:05,720 --> 00:14:07,222
+et Joffrey et Sansa.
+
+192
+00:14:07,347 --> 00:14:10,066
+Sansa a été amenée
+devant le roi et la reine...
+
+193
+00:14:11,059 --> 00:14:13,653
+et on lui a demandé
+d'appeler le prince un menteur.
+
+194
+00:14:13,770 --> 00:14:16,273
+Moi aussi. C'est un menteur.
+
+195
+00:14:16,397 --> 00:14:18,365
+Chérie, écoute-moi.
+
+196
+00:14:19,984 --> 00:14:22,487
+Sansa épousera Joffrey un jour.
+
+197
+00:14:23,279 --> 00:14:25,247
+Elle ne peut pas le trahir.
+
+198
+00:14:25,365 --> 00:14:28,084
+Elle doit le défendre même s'il a tord.
+
+199
+00:14:28,993 --> 00:14:31,997
+Comment peux-tu la laisser
+épouser quelqu'un comme ça ?
+
+200
+00:14:33,998 --> 00:14:35,841
+Eh bien...
+
+201
+00:14:37,502 --> 00:14:39,971
+Regarde-moi.
+
+202
+00:14:40,088 --> 00:14:43,183
+Tu es une Stark de Winterfell.
+Tu connais notre devise.
+
+203
+00:14:45,635 --> 00:14:46,807
+L'hiver vient.
+
+204
+00:14:48,179 --> 00:14:52,025
+Tu es née pendant le long été.
+Tu n'as jamais rien connu d'autre.
+
+205
+00:14:52,517 --> 00:14:54,394
+Mais l'hiver vient maintenant.
+
+206
+00:14:54,519 --> 00:14:58,524
+Et pendant l'hiver,
+nous devons nous protéger,
+
+207
+00:14:58,648 --> 00:15:00,025
+nous protéger les uns les autres.
+
+208
+00:15:00,149 --> 00:15:02,368
+Sansa est ta sœur.
+
+209
+00:15:03,736 --> 00:15:05,738
+Je ne la déteste pas.
+
+210
+00:15:06,572 --> 00:15:07,915
+Pas vraiment.
+
+211
+00:15:09,367 --> 00:15:13,088
+Je ne veux pas te faire peur,
+mais je ne veux non plus te mentir.
+
+212
+00:15:13,204 --> 00:15:15,582
+Nous sommes dans un endroit dangereux.
+
+213
+00:15:16,666 --> 00:15:19,135
+Nous ne pouvons pas
+nous battre entre nous.
+
+214
+00:15:20,128 --> 00:15:22,130
+D'accord ?
+
+215
+00:15:23,172 --> 00:15:25,391
+Prends-la. C'est la tienne.
+
+216
+00:15:29,178 --> 00:15:30,555
+Je peux la garder ?
+
+217
+00:15:31,556 --> 00:15:33,729
+Essaye de ne pas
+transpercer ta sœur avec.
+
+218
+00:15:42,567 --> 00:15:46,572
+Si tu possèdes une épée,
+il va falloir apprendre à t'en servir.
+
+219
+00:15:54,328 --> 00:15:58,083
+Ne l'écoute pas.
+Les corbeaux sont tous des menteurs.
+
+220
+00:16:00,251 --> 00:16:04,176
+- Je connais l'histoire d'un corbeau.
+- Je déteste vos histoires.
+
+221
+00:16:04,297 --> 00:16:07,426
+Je connais l'histoire d'un garçon
+qui déteste les histoires.
+
+222
+00:16:08,426 --> 00:16:11,100
+Je pourrais te parler
+de Ser Duncan le Grand.
+
+223
+00:16:11,220 --> 00:16:13,097
+C'étaient toujours tes préférées.
+
+224
+00:16:13,222 --> 00:16:15,475
+Ce n'étaient pas mes préférées.
+
+225
+00:16:15,600 --> 00:16:18,103
+Mes préférées sont celles qui font peur.
+
+226
+00:16:19,479 --> 00:16:23,700
+Oh, mon doux enfant de l'été.
+Que connais-tu de la peur ?
+
+227
+00:16:24,984 --> 00:16:26,907
+La peur de l'hiver,
+
+228
+00:16:27,028 --> 00:16:30,373
+quand il tombe trente mètres de neige.
+
+229
+00:16:30,490 --> 00:16:34,870
+La peur de la longue nuit,
+le soleil se cache pendant des années
+
+230
+00:16:34,994 --> 00:16:39,966
+et que les enfants naissent, vivent
+et meurent, tout cela dans l'obscurité.
+
+231
+00:16:41,000 --> 00:16:43,719
+C'est le moment d'avoir peur,
+mon petit seigneur,
+
+232
+00:16:43,836 --> 00:16:47,056
+quand les marcheurs blancs
+se faufilent dans la forêt.
+
+233
+00:16:48,549 --> 00:16:53,771
+Voilà des siècles vint une nuit
+qui dura toute une génération.
+
+234
+00:16:53,888 --> 00:16:56,357
+Les rois moururent de froid
+dans leurs châteaux,
+
+235
+00:16:56,474 --> 00:16:58,977
+ainsi que les bergers dans leurs huttes.
+
+236
+00:16:59,101 --> 00:17:03,823
+Et les femmes étouffaient leurs bébés
+plutôt que de les laisser mourir de faim,
+
+237
+00:17:03,940 --> 00:17:08,241
+et elles pleuraient
+et leurs larmes gelaient sur leurs joues.
+
+238
+00:17:09,153 --> 00:17:11,827
+Voilà le genre d'histoires que tu aimes ?
+
+239
+00:17:15,368 --> 00:17:19,669
+Dans ces ténèbres, les marcheurs blancs
+vinrent pour la première fois.
+
+240
+00:17:19,789 --> 00:17:22,633
+Ils balayèrent les villes et les royaumes,
+
+241
+00:17:22,750 --> 00:17:24,718
+sur leurs chevaux cadavériques,
+
+242
+00:17:24,835 --> 00:17:28,965
+chassant avec leurs araignées
+aussi grosses que des chiens...
+
+243
+00:17:33,636 --> 00:17:35,229
+Que lui racontes-tu ?
+
+244
+00:17:35,346 --> 00:17:37,724
+Seulement ce qu'il souhaite entendre.
+
+245
+00:17:37,848 --> 00:17:40,351
+Va souper.
+Je veux rester seul avec lui.
+
+246
+00:17:52,071 --> 00:17:53,573
+Un jour elle m'a dit
+
+247
+00:17:53,698 --> 00:17:55,700
+que le ciel bleu est l'œil
+
+248
+00:17:55,825 --> 00:17:58,544
+d'un géant aux yeux bleus
+du nom de Macomber.
+
+249
+00:17:58,661 --> 00:18:00,709
+Peut-être que c'est vrai.
+
+250
+00:18:03,207 --> 00:18:05,209
+Comment te sens-tu ?
+
+251
+00:18:09,130 --> 00:18:10,882
+Tu ne te souviens toujours de rien ?
+
+252
+00:18:12,967 --> 00:18:16,972
+Bran, je t'ai vu grimper
+des milliers de fois.
+
+253
+00:18:17,096 --> 00:18:18,973
+Dans le vent, sous la pluie.
+
+254
+00:18:19,098 --> 00:18:21,146
+Des milliers de fois.
+
+255
+00:18:21,267 --> 00:18:23,520
+- Tu ne tombes jamais.
+- Je suis tombé.
+
+256
+00:18:26,856 --> 00:18:28,608
+C'est vrai, n'est-ce pas,
+
+257
+00:18:29,650 --> 00:18:32,119
+ce que dit Mestre Luwin sur mes jambes ?
+
+258
+00:18:40,244 --> 00:18:41,587
+Je préférerais être mort.
+
+259
+00:18:43,039 --> 00:18:46,088
+- Ne dis pas cela.
+- Je préférerais être mort.
+
+260
+00:18:58,095 --> 00:19:00,393
+Moins de gens vous reconnaîtront ici,
+madame.
+
+261
+00:19:00,514 --> 00:19:02,562
+Mais encore trop de gens.
+
+262
+00:19:02,683 --> 00:19:05,232
+Neuf ans depuis ma dernière visite
+dans la capitale.
+
+263
+00:19:05,353 --> 00:19:08,573
+Personne ne me connaissait
+la dernière fois que je suis venue.
+
+264
+00:19:12,151 --> 00:19:13,744
+Madame.
+
+265
+00:19:14,779 --> 00:19:17,953
+Bienvenue à Port-Réal, Lady Stark.
+Voulez-vous nous suivre ?
+
+266
+00:19:18,074 --> 00:19:19,826
+Non.
+Nous n'avons rien fait de mal.
+
+267
+00:19:19,950 --> 00:19:21,998
+Nous avons ordre de vous escorter.
+
+268
+00:19:22,119 --> 00:19:23,792
+Ordre ?
+
+269
+00:19:23,913 --> 00:19:26,587
+Je ne sais pas qui vous a donné l'ordre,
+mais...
+
+270
+00:19:26,707 --> 00:19:28,459
+Suivez-moi, Lady Stark.
+
+271
+00:19:39,512 --> 00:19:40,604
+Cat !
+
+272
+00:19:40,721 --> 00:19:43,975
+Allez. À l'étage.
+
+273
+00:19:46,310 --> 00:19:48,938
+Petit fumier !
+
+274
+00:19:49,063 --> 00:19:53,159
+Vous me prenez pour une fille des rues
+que vous pouvez emmener dans...
+
+275
+00:19:59,073 --> 00:20:03,203
+Je ne voulais pas
+vous manquer de respect.
+
+276
+00:20:03,327 --> 00:20:07,298
+Comment osez-vous m'amener ici ?
+Êtes-vous devenu fou ?
+
+277
+00:20:07,415 --> 00:20:09,884
+On ne vous cherchera pas ici.
+Tel est votre souhait ?
+
+278
+00:20:10,000 --> 00:20:13,504
+Je suis vraiment désolé... du lieu.
+
+279
+00:20:13,629 --> 00:20:15,927
+Comment avez-vous appris
+ma venue à Port-Réal ?
+
+280
+00:20:17,091 --> 00:20:18,968
+Un ami cher me l'a dit.
+
+281
+00:20:20,720 --> 00:20:23,519
+- Lady Stark.
+- Lord Varys.
+
+282
+00:20:23,639 --> 00:20:27,564
+Quelle joie de vous revoir
+après tant d'années.
+
+283
+00:20:27,685 --> 00:20:29,062
+Vos pauvres mains.
+
+284
+00:20:31,439 --> 00:20:33,191
+Comment avez-vous appris ma venue ?
+
+285
+00:20:33,315 --> 00:20:35,659
+Je me dois de tout savoir, madame.
+
+286
+00:20:37,528 --> 00:20:39,951
+Avez-vous apporté le poignard ?
+
+287
+00:20:41,615 --> 00:20:43,913
+J'ai des oreilles partout...
+
+288
+00:20:44,034 --> 00:20:46,207
+même dans le Nord.
+
+289
+00:20:46,328 --> 00:20:49,707
+Elles me rapportent
+les histoires les plus étranges.
+
+290
+00:20:55,212 --> 00:20:57,055
+De l'acier valyrien.
+
+291
+00:20:57,173 --> 00:21:00,052
+Savez-vous à qui appartient ce poignard ?
+
+292
+00:21:01,385 --> 00:21:03,729
+Je dois admettre que je ne le sais pas.
+
+293
+00:21:04,889 --> 00:21:07,312
+Eh bien, c'est un grand jour.
+
+294
+00:21:08,350 --> 00:21:11,604
+Je sais quelque chose
+que vous ne savez pas.
+
+295
+00:21:14,106 --> 00:21:17,861
+Il n'y a qu'un poignard comme celui-là
+dans toutes les Sept Couronnes.
+
+296
+00:21:19,570 --> 00:21:22,119
+- C'est le mien.
+- Le vôtre ?
+
+297
+00:21:22,239 --> 00:21:26,335
+C'était le mien, jusqu'au tournoi
+du dernier anniversaire du Prince Joffrey.
+
+298
+00:21:27,369 --> 00:21:29,292
+J'ai parié sur Ser Jaime pour la joute,
+
+299
+00:21:29,413 --> 00:21:31,006
+ce qui était logique.
+
+300
+00:21:31,123 --> 00:21:36,300
+Lorsque le Chevalier des Fleurs
+l'a désarçonné, j'ai perdu mon poignard.
+
+301
+00:21:36,420 --> 00:21:38,468
+Contre qui ?
+
+302
+00:21:38,589 --> 00:21:40,466
+Tyrion Lannister.
+
+303
+00:21:40,591 --> 00:21:42,810
+Le Lutin.
+
+304
+00:21:42,927 --> 00:21:45,601
+Grenn, montre-lui
+ce dont est capable un fermier.
+
+305
+00:21:50,726 --> 00:21:52,945
+Avec une vraie épée,
+tu serais déjà mort.
+
+306
+00:21:54,188 --> 00:21:59,570
+Lord Snow a grandi dans un château
+où il crachait sur les gens comme vous.
+
+307
+00:22:00,194 --> 00:22:01,571
+Pyp.
+
+308
+00:22:01,695 --> 00:22:05,666
+Penses-tu que le bâtard de Ned Stark
+saigne comme nous tous ?
+
+309
+00:22:13,791 --> 00:22:15,464
+Suivant !
+
+310
+00:22:25,970 --> 00:22:27,722
+Suivant !
+
+311
+00:22:40,860 --> 00:22:45,161
+Eh bien, Lord Snow, il semble
+que vous soyez le moins inutile ici.
+
+312
+00:22:46,240 --> 00:22:48,083
+Allez-vous nettoyer !
+
+313
+00:22:48,200 --> 00:22:50,328
+Je ne peux pas supporter plus aujourd'hui.
+
+314
+00:22:50,452 --> 00:22:53,046
+C'est un homme charmant.
+
+315
+00:22:53,163 --> 00:22:55,211
+Je ne le paye pas pour être charmant.
+
+316
+00:22:55,332 --> 00:22:58,552
+Je le paye pour qu'il transforme
+ces voleurs et déserteurs
+
+317
+00:22:58,669 --> 00:23:00,137
+en hommes de la Garde de Nuit.
+
+318
+00:23:00,838 --> 00:23:03,557
+Et cela avance-t-il,
+Commandant Mormont ?
+
+319
+00:23:03,674 --> 00:23:05,176
+Lentement.
+
+320
+00:23:07,553 --> 00:23:10,727
+Un corbeau est arrivé...
+pour le fils de Ned Stark.
+
+321
+00:23:15,102 --> 00:23:17,230
+Bonnes ou mauvaises nouvelles ?
+
+322
+00:23:17,354 --> 00:23:18,856
+Les deux.
+
+323
+00:23:20,274 --> 00:23:21,776
+Lord Stark.
+
+324
+00:23:23,527 --> 00:23:26,371
+Je voulais... vous donner ceci plus tôt.
+
+325
+00:23:28,574 --> 00:23:30,668
+Je perds la mémoire ces derniers temps.
+
+326
+00:23:32,328 --> 00:23:35,252
+Un corbeau de Winterfell ce matin.
+
+327
+00:23:46,133 --> 00:23:48,135
+Bonne nouvelle ?
+
+328
+00:23:51,847 --> 00:23:54,191
+Voulez-vous la partager
+avec votre femme ?
+
+329
+00:23:56,852 --> 00:23:59,321
+- Ma femme est à Winterfell.
+- Vraiment ?
+
+330
+00:24:08,238 --> 00:24:09,740
+Oui, c'est toi que je regarde.
+
+331
+00:24:12,743 --> 00:24:15,292
+Je pensais que ce serait un endroit sûr.
+
+332
+00:24:15,412 --> 00:24:17,881
+Un de mes établissements.
+
+333
+00:24:20,209 --> 00:24:21,756
+Vous êtes drôle.
+
+334
+00:24:23,253 --> 00:24:24,755
+Très drôle.
+
+335
+00:24:26,006 --> 00:24:27,724
+Ned !
+
+336
+00:24:34,473 --> 00:24:36,601
+Ah, les Stark...
+
+337
+00:24:36,725 --> 00:24:39,444
+Ils ont le sang chaud, mais l'esprit lent.
+
+338
+00:24:44,316 --> 00:24:46,910
+Tu m'as cassé le nez, bâtard !
+
+339
+00:24:55,119 --> 00:24:56,291
+Tu es déjà plus beau.
+
+340
+00:24:59,540 --> 00:25:02,339
+Si on te jette par-dessus le Mur,
+tu vas t'écraser ?
+
+341
+00:25:02,459 --> 00:25:04,803
+Te trouveront-ils avant les loups ?
+
+342
+00:25:09,508 --> 00:25:12,011
+Que regardes-tu, le nain ?
+
+343
+00:25:12,136 --> 00:25:14,184
+C'est vous que je regarde.
+
+344
+00:25:15,305 --> 00:25:19,481
+Oui. Tu as un visage intéressant.
+
+345
+00:25:21,603 --> 00:25:23,822
+Des visages très particuliers.
+
+346
+00:25:23,939 --> 00:25:25,816
+Vous tous.
+
+347
+00:25:25,941 --> 00:25:27,614
+Pourquoi nous regardes-tu ?
+
+348
+00:25:27,735 --> 00:25:29,487
+Parce que...
+
+349
+00:25:29,611 --> 00:25:33,536
+je pense qu'ils seraient magnifiques
+empalés sur des piques à Port-Réal.
+
+350
+00:25:33,657 --> 00:25:36,627
+Je devrais peut-être l'écrire à ma sœur,
+la reine.
+
+351
+00:25:38,996 --> 00:25:41,169
+Nous parlerons plus tard,
+Lord Snow.
+
+352
+00:25:47,004 --> 00:25:51,475
+Tout le monde connaissait cet endroit
+et personne ne m'a prévenu.
+
+353
+00:25:51,592 --> 00:25:52,889
+Personne sauf vous.
+
+354
+00:25:53,844 --> 00:25:57,690
+Mon père le savait
+et il m'a laissé croupir au Mur.
+
+355
+00:25:58,140 --> 00:25:59,892
+Le père de Grenn l'a laissé aussi...
+
+356
+00:26:00,601 --> 00:26:03,024
+près d'une ferme, quand il avait trois ans.
+
+357
+00:26:04,063 --> 00:26:07,112
+Pyp fut pris en train de voler du fromage.
+
+358
+00:26:07,232 --> 00:26:10,361
+Sa petite sœur n'avait rien mangé
+depuis trois jours.
+
+359
+00:26:11,403 --> 00:26:14,327
+On lui a laissé le choix :
+sa main droite ou le Mur.
+
+360
+00:26:14,448 --> 00:26:18,294
+J'ai posé des questions
+au Lord Commandant. Fascinant.
+
+361
+00:26:18,410 --> 00:26:20,287
+Ils me détestent
+parce qu'ils sont jaloux.
+
+362
+00:26:20,412 --> 00:26:24,792
+Une chance qu'ils ne soient pas entraînés
+par une fine lame comme Ser Rodrik.
+
+363
+00:26:24,917 --> 00:26:27,295
+Ils n'ont sans doute
+jamais tenu une épée
+
+364
+00:26:27,419 --> 00:26:29,421
+avant de venir ici.
+
+365
+00:26:34,885 --> 00:26:36,933
+Ton frère Bran.
+
+366
+00:26:37,971 --> 00:26:40,099
+Il s'est réveillé.
+
+367
+00:26:41,517 --> 00:26:44,441
+Accuser le frère de la reine
+d'avoir essayé de tuer votre fils
+
+368
+00:26:44,561 --> 00:26:45,733
+serait une trahison.
+
+369
+00:26:45,854 --> 00:26:48,198
+Nous en avons la preuve.
+Nous avons le poignard.
+
+370
+00:26:48,315 --> 00:26:50,283
+Lord Tyrion dira qu'on le lui a volé.
+
+371
+00:26:50,400 --> 00:26:52,653
+L'homme qui pouvait le confirmer
+est mort,
+
+372
+00:26:52,778 --> 00:26:54,246
+grâce au loup de votre fils.
+
+373
+00:26:55,280 --> 00:26:58,124
+Petyr a promis de nous aider
+à trouver la vérité.
+
+374
+00:26:59,326 --> 00:27:03,627
+Il est comme un petit frère pour moi, Ned.
+Il ne me trahira jamais.
+
+375
+00:27:03,747 --> 00:27:06,216
+J'essayerai de vous garder en vie,
+pour elle.
+
+376
+00:27:06,333 --> 00:27:08,006
+La tâche d'un idiot, je l'admets,
+
+377
+00:27:08,127 --> 00:27:10,676
+mais je n'ai jamais rien pu refuser
+à votre femme.
+
+378
+00:27:10,796 --> 00:27:13,140
+Je ne l'oublierai pas.
+
+379
+00:27:13,257 --> 00:27:15,009
+Vous êtes un véritable ami.
+
+380
+00:27:15,134 --> 00:27:18,388
+Ne le dites à personne.
+J'ai une réputation à garder.
+
+381
+00:27:22,558 --> 00:27:24,981
+- Comment as-tu pu être si stupide ?
+- Calme-toi.
+
+382
+00:27:25,102 --> 00:27:27,150
+C'est un enfant. Il n'a que dix ans.
+
+383
+00:27:27,271 --> 00:27:29,319
+- À quoi pensais-tu ?
+- Je pensais à nous.
+
+384
+00:27:29,439 --> 00:27:32,409
+C'est un peu tard
+pour commencer à te plaindre.
+
+385
+00:27:32,526 --> 00:27:35,826
+- Que leur a dit le garçon ?
+- Rien. Il ne se souvient de rien.
+
+386
+00:27:35,946 --> 00:27:37,994
+Alors pourquoi t'emporter ainsi ?
+
+387
+00:27:38,115 --> 00:27:41,494
+Et s'il se souvient ?
+S'il dit à son père ce qu'il a vu...
+
+388
+00:27:41,618 --> 00:27:43,916
+Nous dirons qu'il mentait, qu'il a rêvé.
+
+389
+00:27:44,037 --> 00:27:47,667
+Nous dirons ce qu'il faut.
+Nous sommes plus rusés qu'un enfant.
+
+390
+00:27:47,791 --> 00:27:51,671
+- Et mon mari ?
+- Je me battrai contre lui s'il le faut.
+
+391
+00:27:51,795 --> 00:27:53,843
+Ils pourront écrire une ballade sur nous :
+
+392
+00:27:53,964 --> 00:27:55,637
+Guerre Pour La chatte De Cersei.
+
+393
+00:28:01,263 --> 00:28:03,357
+- Laisse-moi.
+- Jamais.
+
+394
+00:28:03,473 --> 00:28:04,895
+Laisse-moi.
+
+395
+00:28:05,017 --> 00:28:07,861
+Le garçon ne parlera pas.
+
+396
+00:28:07,978 --> 00:28:10,026
+Et s'il le fait, je le tuerai.
+
+397
+00:28:10,147 --> 00:28:13,367
+Lui, Ned Stark, le roi
+et tous ces gens-là,
+
+398
+00:28:13,483 --> 00:28:18,159
+jusqu'à ce que toi et moi
+soyons les derniers sur cette terre.
+
+399
+00:28:29,208 --> 00:28:31,176
+Si seulement je pouvais voir les filles.
+
+400
+00:28:31,293 --> 00:28:34,422
+- C'est trop dangereux.
+- Juste pour un instant.
+
+401
+00:28:34,546 --> 00:28:36,719
+Pas avant de connaître nos ennemis.
+
+402
+00:28:36,840 --> 00:28:38,808
+Les Lannister sont coupables,
+Ned.
+
+403
+00:28:38,926 --> 00:28:40,974
+Au fond de moi, je le sais.
+
+404
+00:28:41,094 --> 00:28:42,971
+Littlefinger a raison.
+
+405
+00:28:44,681 --> 00:28:46,775
+Je ne peux rien faire sans preuve.
+
+406
+00:28:46,892 --> 00:28:48,894
+Et si tu trouves la preuve ?
+
+407
+00:28:49,645 --> 00:28:52,239
+Alors je la montrerai à Robert...
+
+408
+00:28:52,356 --> 00:28:54,484
+s'il est encore l'homme que j'ai connu.
+
+409
+00:28:56,443 --> 00:28:58,366
+Fais attention à toi sur la route.
+
+410
+00:28:59,404 --> 00:29:01,452
+Ton tempérament est dangereux.
+
+411
+00:29:01,573 --> 00:29:03,291
+Mon tempérament ?
+
+412
+00:29:03,408 --> 00:29:07,458
+Que les dieux me pardonnent,
+tu as failli tuer le pauvre Littlefinger.
+
+413
+00:29:12,209 --> 00:29:14,052
+Il t'aime encore.
+
+414
+00:29:15,254 --> 00:29:17,006
+Vraiment ?
+
+415
+00:29:35,232 --> 00:29:36,233
+Vas-y.
+
+416
+00:30:08,432 --> 00:30:11,606
+Oui, cela fait longtemps.
+
+417
+00:30:12,686 --> 00:30:15,235
+Mais je me souviens de leur visage.
+
+418
+00:30:16,940 --> 00:30:18,942
+Te souviens-tu de ton premier ?
+
+419
+00:30:21,403 --> 00:30:23,497
+Bien sûr, Votre Majesté.
+
+420
+00:30:23,613 --> 00:30:25,707
+Qui était-ce ?
+
+421
+00:30:25,824 --> 00:30:27,292
+Un homme de Tyrosh.
+
+422
+00:30:27,868 --> 00:30:29,870
+Je n'ai jamais su son nom.
+
+423
+00:30:31,246 --> 00:30:32,463
+Comment ?
+
+424
+00:30:32,581 --> 00:30:34,754
+D'une lance à travers le cœur.
+
+425
+00:30:34,875 --> 00:30:36,297
+Mort rapide.
+
+426
+00:30:37,753 --> 00:30:40,097
+Tu as eu de la chance.
+
+427
+00:30:40,213 --> 00:30:43,968
+Le mien était un des garçons Tarly
+à la bataille de Lestival.
+
+428
+00:30:45,635 --> 00:30:50,015
+Mon cheval prit une flèche,
+j'étais à terre, peinant dans la boue.
+
+429
+00:30:51,433 --> 00:30:56,815
+Il a couru vers moi,
+cet idiot de noble,
+
+430
+00:30:56,938 --> 00:31:01,444
+pensant qu'il pouvait arrêter la rébellion
+d'un coup d'épée.
+
+431
+00:31:02,986 --> 00:31:04,533
+Je l'ai assommé avec le marteau.
+
+432
+00:31:04,654 --> 00:31:07,248
+Mon dieu, j'étais fort à l'époque.
+
+433
+00:31:07,366 --> 00:31:10,666
+Il s'est encastré dans son plastron.
+
+434
+00:31:10,786 --> 00:31:13,505
+Il a sans doute brisé toutes ses côtes.
+
+435
+00:31:14,206 --> 00:31:17,255
+Je me suis tenu au-dessus de lui,
+le marteau en l'air.
+
+436
+00:31:18,043 --> 00:31:23,516
+Juste avant que je ne l'abatte sur lui,
+il a crié, "Attendez ! Attendez."
+
+437
+00:31:29,012 --> 00:31:32,687
+Ils ne vous disent jamais
+qu'ils se chient dessus.
+
+438
+00:31:34,351 --> 00:31:37,150
+Ils ne mettent pas ça
+dans les chansons.
+
+439
+00:31:39,773 --> 00:31:41,116
+Quel idiot.
+
+440
+00:31:43,485 --> 00:31:48,412
+De nos jours, les Tarly s'agenouillent
+comme tout le monde.
+
+441
+00:31:48,532 --> 00:31:52,958
+Il aurait pu rester en retrait
+avec les garçons intelligents,
+
+442
+00:31:53,078 --> 00:31:57,254
+et aujourd'hui,
+sa femme lui empoisonnerait la vie
+
+443
+00:31:57,374 --> 00:31:59,968
+ses fils seraient des ingrats,
+
+444
+00:32:00,085 --> 00:32:04,431
+et il se réveillerait trois fois par nuit
+pour pisser dans un pot de chambre.
+
+445
+00:32:04,548 --> 00:32:06,346
+Du vin !
+
+446
+00:32:09,010 --> 00:32:13,481
+Lancel.
+Mon Dieu, quel nom idiot.
+
+447
+00:32:14,599 --> 00:32:17,068
+Lancel Lannister.
+
+448
+00:32:18,270 --> 00:32:22,400
+Qui t'a donné ce nom ?
+Un idiot qui bégayait ?
+
+449
+00:32:25,485 --> 00:32:27,487
+Que fais-tu ?
+
+450
+00:32:28,780 --> 00:32:31,499
+- Elle est vide, Votre Majesté.
+- Quoi, elle est vide ?
+
+451
+00:32:31,616 --> 00:32:34,415
+- Il n'y a plus de vin.
+- Ça veut dire ça, vide ?!
+
+452
+00:32:36,455 --> 00:32:38,753
+Alors va en chercher.
+
+453
+00:32:42,586 --> 00:32:44,964
+Dis à ton cousin d'entrer.
+
+454
+00:32:45,088 --> 00:32:48,183
+Le Régicide ! Viens ici.
+
+455
+00:32:55,849 --> 00:32:58,272
+Je suis cerné par les Lannister.
+
+456
+00:32:59,019 --> 00:33:02,740
+Chaque fois que je ferme les yeux,
+je vois des cheveux blonds
+
+457
+00:33:02,856 --> 00:33:06,156
+et leurs mines satisfaites.
+
+458
+00:33:07,194 --> 00:33:09,242
+Ça doit blesser ta fierté.
+
+459
+00:33:09,362 --> 00:33:12,161
+Te tenir là
+comme une sentinelle enorgueillie.
+
+460
+00:33:13,617 --> 00:33:17,497
+Jaime Lannister,
+fils du tout puissant Tywin...
+
+461
+00:33:18,788 --> 00:33:24,170
+obligé de garder la porte
+quand ton roi mange, boit, chie et baise.
+
+462
+00:33:26,129 --> 00:33:27,346
+Allez.
+
+463
+00:33:27,464 --> 00:33:29,637
+Nous racontons des histoires de guerre.
+
+464
+00:33:31,092 --> 00:33:34,687
+Qui as-tu tué la première fois ?
+Les vieux ne comptent pas.
+
+465
+00:33:36,264 --> 00:33:38,938
+Un des hors-la-loi de la fraternité.
+
+466
+00:33:39,059 --> 00:33:41,187
+J'étais là.
+
+467
+00:33:41,311 --> 00:33:44,611
+Vous étiez un simple écuyer de 16 ans.
+
+468
+00:33:44,731 --> 00:33:47,359
+Vous avez tué Symon Tignac
+en contre-attaquant.
+
+469
+00:33:47,484 --> 00:33:50,158
+Je n'avais jamais vu un si beau geste.
+
+470
+00:33:50,278 --> 00:33:54,078
+Un bon combattant, ce Tignac,
+mais il manquait d'endurance.
+
+471
+00:33:54,616 --> 00:33:56,209
+Ton hors-la-loi...
+
+472
+00:33:57,285 --> 00:33:58,753
+Une dernière parole ?
+
+473
+00:33:58,870 --> 00:34:00,417
+Je lui ai coupé la tête.
+
+474
+00:34:01,748 --> 00:34:04,627
+Et Aerys Targaryen ?
+
+475
+00:34:04,751 --> 00:34:08,722
+Qu'a dit le Roi Fou
+quand tu l'as embroché par-derrière ?
+
+476
+00:34:08,838 --> 00:34:10,715
+Je n'ai jamais demandé.
+
+477
+00:34:11,341 --> 00:34:13,719
+Est-ce qu'il t'a appelé un traître ?
+
+478
+00:34:13,843 --> 00:34:16,847
+A-t-il imploré ta grâce ?
+
+479
+00:34:18,431 --> 00:34:21,355
+Il a dit ce qu'il répétait
+depuis des heures...
+
+480
+00:34:23,019 --> 00:34:25,021
+"Brûle-les tous."
+
+481
+00:34:29,943 --> 00:34:31,911
+Ce sera tout, Votre Majesté...
+
+482
+00:35:04,352 --> 00:35:06,696
+Les Dothraki achètent-ils leurs esclaves ?
+
+483
+00:35:06,813 --> 00:35:08,815
+Les Dothraki ne croient pas à l'argent.
+
+484
+00:35:08,940 --> 00:35:11,193
+Leurs esclaves leur ont été donnés.
+
+485
+00:35:11,318 --> 00:35:12,661
+Par qui ?
+
+486
+00:35:12,777 --> 00:35:16,202
+Si vous régnez sur une ville,
+qu'une horde arrive, vous avez deux choix :
+
+487
+00:35:16,323 --> 00:35:18,291
+payer un tribut ou vous battre.
+
+488
+00:35:18,408 --> 00:35:20,160
+Un choix facile pour la plupart.
+
+489
+00:35:21,411 --> 00:35:23,630
+Bien sûr, ce n'est pas suffisant parfois.
+
+490
+00:35:23,747 --> 00:35:27,126
+Parfois un khal est insulté
+par le nombre d'esclaves qu'il reçoit.
+
+491
+00:35:27,250 --> 00:35:29,878
+Les hommes sont trop faibles
+ou les femmes trop laides.
+
+492
+00:35:30,003 --> 00:35:33,507
+Parfois un khal décide
+que ses hommes n'ont pas assez guerroyé
+
+493
+00:35:33,632 --> 00:35:35,259
+et ont besoin de s'entraîner.
+
+494
+00:35:39,846 --> 00:35:41,644
+Dis-leur de s'arrêter.
+
+495
+00:35:41,765 --> 00:35:44,939
+Vous voulez que la horde s'arrête ?
+Pour combien de temps ?
+
+496
+00:35:46,519 --> 00:35:48,772
+Jusqu'à ce que je décide autrement.
+
+497
+00:35:49,439 --> 00:35:51,658
+Vous apprenez à parler comme une reine.
+
+498
+00:35:51,775 --> 00:35:54,369
+Pas une reine.
+
+499
+00:35:54,486 --> 00:35:55,658
+Une khaleesi.
+
+500
+00:36:32,649 --> 00:36:34,697
+Comment oses-tu !
+
+501
+00:36:34,818 --> 00:36:38,163
+Tu me donnes des ordres ? À moi ?
+
+502
+00:36:40,115 --> 00:36:43,790
+Tu ne commandes pas le dragon.
+Je suis le Seigneur des Sept Couronnes.
+
+503
+00:36:43,910 --> 00:36:48,632
+Je ne reçois pas d'ordre des sauvages
+ou de leurs catins. Compris ?
+
+504
+00:36:54,796 --> 00:36:56,673
+Rakharo demande
+si vous voulez le tuer.
+
+505
+00:36:56,798 --> 00:36:58,345
+Non.
+
+506
+00:37:01,803 --> 00:37:04,397
+Rakharo dit couper oreille
+pour apprendre respect.
+
+507
+00:37:04,514 --> 00:37:07,017
+S'il vous plaît, ne lui faites pas de mal.
+
+508
+00:37:11,479 --> 00:37:14,983
+Dis-lui que je ne veux pas
+qu'on fasse de mal à mon frère.
+
+509
+00:37:27,746 --> 00:37:31,250
+Mormont ! Tue ces chiens de Dothraki !
+
+510
+00:37:36,629 --> 00:37:39,257
+Je suis ton roi !
+
+511
+00:37:40,508 --> 00:37:43,478
+Ne devrait-on pas rejoindre le khalasar,
+Khaleesi ?
+
+512
+00:38:06,534 --> 00:38:08,753
+Toi... tu marches.
+
+513
+00:40:39,062 --> 00:40:43,408
+Je voulais être là lorsque tu le voyais
+pour la première fois.
+
+514
+00:40:51,616 --> 00:40:54,870
+- Je pars ce matin.
+- Tu pars ?
+
+515
+00:40:55,995 --> 00:40:58,123
+Je suis Premier Patrouilleur.
+
+516
+00:40:58,247 --> 00:41:00,625
+Mon travail est là-bas.
+
+517
+00:41:00,750 --> 00:41:04,254
+- Il y a des rumeurs inquiétantes.
+- Quel genre de rumeurs ?
+
+518
+00:41:04,379 --> 00:41:05,801
+Celles que je ne crois pas.
+
+519
+00:41:07,548 --> 00:41:10,017
+Je suis prêt. Je ne vous décevrais pas.
+
+520
+00:41:10,969 --> 00:41:12,471
+Tu ne viens pas.
+
+521
+00:41:15,056 --> 00:41:16,774
+Tu n'es pas un patrouilleur, Jon.
+
+522
+00:41:16,891 --> 00:41:19,485
+- Je suis meilleur que...
+- Meilleur que personne !
+
+523
+00:41:24,774 --> 00:41:26,526
+Ici...
+
+524
+00:41:26,651 --> 00:41:28,904
+un homme reçoit ce qu'il mérite,
+
+525
+00:41:29,028 --> 00:41:31,122
+quand il le mérite.
+
+526
+00:41:35,535 --> 00:41:37,458
+Nous en reparlerons à mon retour.
+
+527
+00:41:52,885 --> 00:41:55,513
+- Les couilles d'un ours.
+- Tu plaisantes.
+
+528
+00:41:55,638 --> 00:41:59,688
+Et sa cervelle, ses tripes,
+ses poumons et son cœur,
+
+529
+00:41:59,809 --> 00:42:02,107
+le tout revenu dans sa graisse.
+
+530
+00:42:02,228 --> 00:42:04,777
+Quand tu es à des kilomètres
+au nord du Mur
+
+531
+00:42:04,897 --> 00:42:08,367
+et que tu n'as rien mangé en une semaine,
+tu ne laisses rien aux loups.
+
+532
+00:42:09,068 --> 00:42:11,537
+Et quel goût ont les couilles d'un ours ?
+
+533
+00:42:11,654 --> 00:42:13,873
+C'est un peu ferme.
+
+534
+00:42:16,117 --> 00:42:20,122
+Et vous, monseigneur ?
+Qu'avez-vous mangé de plus étrange ?
+
+535
+00:42:20,246 --> 00:42:21,998
+Les filles de Dorne ?
+
+536
+00:42:26,002 --> 00:42:31,259
+Vous parcourez les Sept Couronnes,
+en attrapant les détrousseurs et voleurs
+
+537
+00:42:31,382 --> 00:42:33,384
+et vous les amenez ici
+en avides recrues ?
+
+538
+00:42:33,509 --> 00:42:35,227
+Oui.
+
+539
+00:42:35,344 --> 00:42:38,018
+Mais ce ne sont pas tous des brigands.
+
+540
+00:42:38,139 --> 00:42:41,313
+Il y a des pauvres garçons
+qui ont besoin de manger.
+
+541
+00:42:41,434 --> 00:42:44,233
+Il y a des nobles
+à la recherche de la gloire.
+
+542
+00:42:44,353 --> 00:42:46,606
+On y trouve plus de nourriture
+que de gloire.
+
+543
+00:42:48,983 --> 00:42:51,236
+La Garde de Nuit est une plaisanterie
+pour vous ?
+
+544
+00:42:52,403 --> 00:42:56,658
+C'est ce que nous sommes, Lannister ?
+Une armée de bouffons vêtus de noir ?
+
+545
+00:42:56,783 --> 00:42:58,785
+Vous n'êtes pas assez pour une armée
+
+546
+00:42:58,910 --> 00:43:02,585
+et, hormis Yoren ici,
+vous n'êtes pas drôles.
+
+547
+00:43:02,705 --> 00:43:05,333
+Vous avez des histoires à raconter
+
+548
+00:43:05,458 --> 00:43:07,210
+à votre retour à Port-Réal.
+
+549
+00:43:07,335 --> 00:43:10,930
+Mais pensez à ceci
+lorsque vous boirez votre vin là-bas,
+
+550
+00:43:11,047 --> 00:43:13,049
+en visitant vos bordels.
+
+551
+00:43:14,092 --> 00:43:17,471
+La moitié des garçons que vous avez vus
+mourront au nord du Mur.
+
+552
+00:43:18,304 --> 00:43:20,773
+Tués peut-être
+par la hache d'un sauvageon,
+
+553
+00:43:20,890 --> 00:43:23,484
+peut-être par la maladie,
+
+554
+00:43:23,601 --> 00:43:26,275
+peut-être juste par le froid.
+
+555
+00:43:26,395 --> 00:43:28,193
+Ils meurent dans la douleur.
+
+556
+00:43:29,398 --> 00:43:30,820
+Et ils le font...
+
+557
+00:43:30,942 --> 00:43:36,073
+pour que les seigneurs gras
+comme vous profitent de leurs jours d'été.
+
+558
+00:43:38,908 --> 00:43:40,751
+Vous trouvez que je suis gras ?
+
+559
+00:43:44,413 --> 00:43:46,290
+Puis-je vous appeler Benjen ?
+
+560
+00:43:46,415 --> 00:43:47,632
+Comme vous le souhaitez.
+
+561
+00:43:47,750 --> 00:43:50,048
+J'ignore si je vous ai offensé.
+
+562
+00:43:50,169 --> 00:43:52,171
+J'admire la Garde de Nuit.
+
+563
+00:43:52,296 --> 00:43:54,674
+Et vous, Premier Patrouilleur...
+
+564
+00:43:54,799 --> 00:43:56,847
+Mon frère m'a dit un jour...
+
+565
+00:43:56,968 --> 00:44:01,474
+que tout ce que quelqu'un dit
+avant le mot "mais" ne compte pas.
+
+566
+00:44:01,597 --> 00:44:03,270
+Mais...
+
+567
+00:44:04,183 --> 00:44:07,312
+Je ne crois pas que des géants,
+des goules et des marcheurs blancs
+
+568
+00:44:07,436 --> 00:44:09,234
+se promènent derrière le mur.
+
+569
+00:44:10,106 --> 00:44:13,030
+La seule différence
+entre nous et les sauvageons
+
+570
+00:44:13,151 --> 00:44:16,200
+est que, lorsque ce Mur a été érigé,
+nos ancêtres vivaient
+
+571
+00:44:16,320 --> 00:44:18,448
+du bon côté.
+
+572
+00:44:18,573 --> 00:44:20,325
+Vous avez raison.
+
+573
+00:44:22,118 --> 00:44:24,212
+Les sauvageons sont comme nous.
+
+574
+00:44:25,121 --> 00:44:27,044
+Un peu plus rustres peut-être.
+
+575
+00:44:27,165 --> 00:44:29,839
+Mais ils sont de chair et de sang.
+
+576
+00:44:29,959 --> 00:44:32,508
+Je sais comment les trouver
+et comment les tuer.
+
+577
+00:44:33,254 --> 00:44:36,349
+Les sauvageons ne m'empêchent pas
+de dormir la nuit.
+
+578
+00:44:37,633 --> 00:44:42,104
+Vous n'êtes jamais allé au nord du Mur,
+ne me dites pas ce qui s'y trouve.
+
+579
+00:44:45,725 --> 00:44:47,648
+Tu pars sous terre ?
+
+580
+00:44:49,270 --> 00:44:52,524
+- Prends soin de toi, couvre-toi.
+- Amuse-toi dans la capitale.
+
+581
+00:44:52,648 --> 00:44:54,321
+Toujours.
+
+582
+00:45:03,534 --> 00:45:05,832
+Je crois qu'il commence à m'apprécier.
+
+583
+00:45:09,373 --> 00:45:12,217
+- "Pars sous terre" ?
+- Oui.
+
+584
+00:45:12,335 --> 00:45:15,760
+Par le tunnel qui mène de l'autre côté.
+
+585
+00:45:15,880 --> 00:45:18,508
+Il restera au nord du Mur
+pour un mois ou deux.
+
+586
+00:45:20,760 --> 00:45:23,809
+Vous descendez vers Port-Réal aussi.
+
+587
+00:45:23,930 --> 00:45:27,150
+Oui, après-demain.
+
+588
+00:45:27,266 --> 00:45:30,566
+Je recrute presque la moitié des hommes
+dans leurs donjons.
+
+589
+00:45:30,686 --> 00:45:34,987
+Faisons la route ensemble.
+J'apprécie une bonne compagnie.
+
+590
+00:45:35,107 --> 00:45:36,825
+Je...
+
+591
+00:45:36,943 --> 00:45:39,537
+Je voyage à la dure, monseigneur.
+
+592
+00:45:39,654 --> 00:45:43,625
+Pas cette fois. Nous dormirons
+dans les meilleurs auberges et châteaux.
+
+593
+00:45:43,741 --> 00:45:46,164
+Personne ne dit non à un Lannister.
+
+594
+00:46:02,176 --> 00:46:04,019
+Oui, Khaleesi.
+
+595
+00:46:05,846 --> 00:46:08,019
+Que fais-tu ?
+
+596
+00:46:08,140 --> 00:46:10,609
+Quand avez-vous saigné
+pour la dernière fois ?
+
+597
+00:46:13,145 --> 00:46:15,068
+Vous êtes différente, Khaleesi.
+
+598
+00:46:17,400 --> 00:46:20,870
+C'est un cadeau du Grand Étalon.
+
+599
+00:46:24,282 --> 00:46:28,287
+Pour un homme à cheval,
+une lame incurvée est mieux adaptée,
+
+600
+00:46:28,411 --> 00:46:30,334
+plus facile à manier.
+
+601
+00:46:30,454 --> 00:46:33,128
+C'est une bonne arme pour un dothrak.
+
+602
+00:46:34,292 --> 00:46:38,342
+Mais pour un homme avec une armure,
+
+603
+00:46:38,462 --> 00:46:40,635
+l'arakh ne traversera pas l'acier.
+
+604
+00:46:41,799 --> 00:46:44,348
+C'est l'avantage d'une large épée.
+
+605
+00:46:44,468 --> 00:46:47,017
+Elle est faite pour percer l'armure.
+
+606
+00:46:49,348 --> 00:46:51,271
+Les Dothraki n'ont pas de robes en acier.
+
+607
+00:46:51,559 --> 00:46:54,483
+- Armure.
+- Armure.
+
+608
+00:46:54,603 --> 00:46:57,277
+L'armure rend l'homme...
+
+609
+00:46:58,441 --> 00:46:59,818
+lent.
+
+610
+00:46:59,942 --> 00:47:02,991
+C'est vrai,
+mais elle le garde aussi en vie.
+
+611
+00:47:04,613 --> 00:47:06,911
+Mon père m'a appris à me battre.
+
+612
+00:47:07,366 --> 00:47:10,461
+Il m'a appris
+que la vitesse l'emporte sur la taille.
+
+613
+00:47:10,828 --> 00:47:13,502
+On m'a dit
+que ton père était un grand guerrier.
+
+614
+00:47:13,789 --> 00:47:16,042
+C'était un sang-coureur du Khal Bharbo.
+
+615
+00:47:18,711 --> 00:47:22,591
+Et votre père, Jorah l'Andal ?
+C'était un guerrier ?
+
+616
+00:47:23,132 --> 00:47:25,430
+Il l'est toujours.
+
+617
+00:47:25,551 --> 00:47:28,054
+Un homme d'honneur
+
+618
+00:47:28,179 --> 00:47:29,476
+et je l'ai trahi.
+
+619
+00:47:34,560 --> 00:47:36,813
+La khaleesi veut manger
+autre chose ce soir.
+
+620
+00:47:37,146 --> 00:47:38,523
+Tuez des lapins.
+
+621
+00:47:38,981 --> 00:47:40,654
+Il n'y a pas de lapins.
+
+622
+00:47:41,150 --> 00:47:44,495
+Trouvez des canards, elle aime le canard.
+
+623
+00:47:45,071 --> 00:47:48,200
+As-tu vu des canards, femme ?
+Pas de lapins, pas de canards.
+
+624
+00:47:48,491 --> 00:47:50,744
+Tu as des yeux ? N'est-ce pas ?
+
+625
+00:47:51,035 --> 00:47:53,163
+Des chiens alors,
+j'ai vu des chiens.
+
+626
+00:47:53,287 --> 00:47:55,585
+Je ne crois pas
+qu'elle veuille manger du chien.
+
+627
+00:47:59,168 --> 00:48:01,637
+La khaleesi a un bébé dans son ventre.
+
+628
+00:48:03,214 --> 00:48:07,094
+C'est vrai.
+Elle n'a pas saigné depuis deux lunes.
+
+629
+00:48:07,218 --> 00:48:08,970
+Son ventre commence à s'arrondir.
+
+630
+00:48:11,180 --> 00:48:12,978
+Un cadeau du Grand Étalon.
+
+631
+00:48:13,099 --> 00:48:14,817
+Elle ne veut pas manger de cheval.
+
+632
+00:48:16,352 --> 00:48:19,071
+Je ferai égorger une chèvre
+pour le souper.
+
+633
+00:48:24,777 --> 00:48:26,905
+Je dois aller à Qohor.
+
+634
+00:48:31,117 --> 00:48:33,916
+Nous allons vers Vaes Dothrak.
+
+635
+00:48:34,036 --> 00:48:36,459
+Ne t'inquiète pas. Je vous retrouverai.
+
+636
+00:48:36,580 --> 00:48:38,833
+La horde ne passe pas inaperçue.
+
+637
+00:48:50,094 --> 00:48:54,600
+Ne sois pas si statique. C'est plus dur
+de toucher une cible qui bouge.
+
+638
+00:48:58,894 --> 00:49:01,738
+Sauf pour toi. Tu bouges trop.
+
+639
+00:49:01,856 --> 00:49:04,405
+Je pourrais tenir mon épée
+et te laisser faire.
+
+640
+00:49:09,864 --> 00:49:12,959
+Combien d'hivers avez-vous connus,
+Lord Tyrion ?
+
+641
+00:49:13,075 --> 00:49:15,294
+Huit. Non, neuf.
+
+642
+00:49:15,828 --> 00:49:17,830
+De courte durée ?
+
+643
+00:49:17,955 --> 00:49:21,050
+L'hiver de ma naissance
+a duré trois ans, Mester Aemon.
+
+644
+00:49:21,167 --> 00:49:24,637
+Cet été en a duré neuf.
+
+645
+00:49:24,753 --> 00:49:28,508
+Mais la citadelle nous dit
+que les jours commencent à raccourcir.
+
+646
+00:49:28,632 --> 00:49:30,976
+Les Stark ont toujours raison.
+
+647
+00:49:31,093 --> 00:49:33,562
+L'hiver vient.
+
+648
+00:49:34,472 --> 00:49:36,474
+Celui-là sera long...
+
+649
+00:49:37,433 --> 00:49:39,561
+et il amènera des ténèbres.
+
+650
+00:49:39,685 --> 00:49:44,282
+Nous capturons de plus en plus
+de sauvageons tous les mois.
+
+651
+00:49:44,398 --> 00:49:45,741
+Ils fuient vers le sud.
+
+652
+00:49:45,858 --> 00:49:49,954
+Ceux qui fuient...
+disent qu'ils ont vu les marcheurs blancs.
+
+653
+00:49:50,070 --> 00:49:53,324
+Et les pêcheurs de Port-Lannis disent
+qu'ils voient des sirènes.
+
+654
+00:49:53,449 --> 00:49:57,295
+Un de nos patrouilleurs a juré
+qu'il les a vus tuer ses compagnons.
+
+655
+00:49:57,411 --> 00:50:01,132
+Il a juré
+jusqu'à ce que Ned Stark le décapite.
+
+656
+00:50:01,790 --> 00:50:05,590
+La Garde de Nuit est la seule chose
+entre le royaume
+
+657
+00:50:05,711 --> 00:50:08,055
+et ce qui se trouve au-delà.
+
+658
+00:50:08,172 --> 00:50:14,020
+C'est devenu une armée
+de garçons indisciplinés et de vieillards.
+
+659
+00:50:14,136 --> 00:50:16,480
+Nous sommes moins d'un millier.
+
+660
+00:50:17,515 --> 00:50:20,359
+Nous ne pouvons protéger
+les autres châteaux du Mur.
+
+661
+00:50:20,476 --> 00:50:23,400
+Nous ne pouvons patrouiller
+toutes les zones sauvages.
+
+662
+00:50:23,521 --> 00:50:27,901
+Nous avons à peine de quoi
+armer et nourrir nos garçons.
+
+663
+00:50:28,025 --> 00:50:31,996
+Votre sœur siège aux côtés du roi.
+
+664
+00:50:33,656 --> 00:50:36,330
+Dites-le-lui... nous avons besoin d'aide.
+
+665
+00:50:36,450 --> 00:50:41,251
+Quand l'hiver arrivera, que les dieux
+nous aident si nous ne sommes pas prêts.
+
+666
+00:51:04,353 --> 00:51:06,401
+C'est un garçon.
+
+667
+00:51:10,359 --> 00:51:12,361
+Comment le sais-tu ?
+
+668
+00:51:14,697 --> 00:51:16,916
+Je le sais.
+
+669
+00:51:48,105 --> 00:51:50,403
+Je suis triste de vous voir partir.
+
+670
+00:51:52,359 --> 00:51:54,282
+C'est moi ou ce froid,
+
+671
+00:51:54,403 --> 00:51:56,747
+et cela ne sert à rien.
+
+672
+00:51:57,531 --> 00:51:59,499
+Vous arrêterez-vous à Winterfell ?
+
+673
+00:51:59,617 --> 00:52:00,869
+Je pense que oui.
+
+674
+00:52:00,993 --> 00:52:05,123
+Il y a peu de lits douillets
+entre ici et Port-Réal.
+
+675
+00:52:05,247 --> 00:52:08,171
+Si vous voyez mon frère Bran,
+
+676
+00:52:08,292 --> 00:52:09,965
+dites-lui qu'il me manque.
+
+677
+00:52:10,794 --> 00:52:12,262
+Que j'irais le voir si possible.
+
+678
+00:52:12,379 --> 00:52:13,596
+Bien sûr.
+
+679
+00:52:14,715 --> 00:52:16,137
+Il ne remarchera jamais.
+
+680
+00:52:16,258 --> 00:52:20,183
+Si tu dois être un estropié,
+mieux vaut être un estropié riche.
+
+681
+00:52:21,430 --> 00:52:22,602
+Prends soin de toi, Snow.
+
+682
+00:52:22,723 --> 00:52:24,566
+Au revoir, monseigneur.
+
+683
+00:52:35,986 --> 00:52:38,330
+Vous êtes en retard, mon garçon.
+
+684
+00:52:40,949 --> 00:52:43,498
+Demain, vous serez là à midi.
+
+685
+00:52:43,619 --> 00:52:45,621
+Qui êtes-vous ?
+
+686
+00:52:46,372 --> 00:52:49,546
+Ton maître à danser, Syrio Forel.
+
+687
+00:52:53,796 --> 00:52:55,298
+Demain, tu la saisiras.
+
+688
+00:52:55,422 --> 00:52:57,220
+Ramasse-la maintenant.
+
+689
+00:52:59,635 --> 00:53:01,979
+Pas comme ça, mon garçon.
+
+690
+00:53:02,096 --> 00:53:06,192
+Les deux mains ne sont nécessaires
+que pour les grandes épées.
+
+691
+00:53:06,308 --> 00:53:10,279
+- Elle est trop lourde.
+- Elle est lourde comme il faut
+
+692
+00:53:10,396 --> 00:53:12,148
+pour te donner des forces.
+
+693
+00:53:13,148 --> 00:53:14,650
+Comme ça.
+
+694
+00:53:14,775 --> 00:53:17,073
+Une main est tout ce qu'il te faut.
+
+695
+00:53:18,904 --> 00:53:20,451
+À présent, tu te tiens mal.
+
+696
+00:53:20,572 --> 00:53:22,870
+Mets-toi de profil.
+
+697
+00:53:22,991 --> 00:53:24,368
+Oui.
+
+698
+00:53:25,744 --> 00:53:27,587
+Alors.
+
+699
+00:53:27,705 --> 00:53:30,003
+Tu es maigre. C'est bien.
+
+700
+00:53:30,666 --> 00:53:32,919
+La cible est plus petite.
+
+701
+00:53:33,043 --> 00:53:35,171
+À présent, la poignée. Laisse-moi voir.
+
+702
+00:53:36,338 --> 00:53:37,885
+Oui.
+
+703
+00:53:38,006 --> 00:53:40,680
+La prise doit être délicate.
+
+704
+00:53:41,760 --> 00:53:43,558
+Et si je la lâche ?
+
+705
+00:53:43,679 --> 00:53:46,057
+L'acier doit faire partie de ton bras.
+
+706
+00:53:46,181 --> 00:53:48,775
+Peux-tu lâcher une partie de ton bras ?
+Non.
+
+707
+00:53:48,892 --> 00:53:52,988
+Syrio Forel a été neuf ans
+première épée de l'Amiral de Braavos.
+
+708
+00:53:53,105 --> 00:53:55,904
+Il sait de quoi il parle.
+Tu dois m'écouter, mon garçon.
+
+709
+00:53:56,608 --> 00:53:57,655
+Je suis une fille.
+
+710
+00:53:57,776 --> 00:54:03,249
+Garçon, fille...
+Tu es une épée, voilà tout.
+
+711
+00:54:04,825 --> 00:54:06,827
+C'est la bonne prise.
+
+712
+00:54:06,952 --> 00:54:09,705
+Tu ne tiens pas une hache de guerre.
+Tu tiens...
+
+713
+00:54:09,830 --> 00:54:11,207
+Une aiguille.
+
+714
+00:54:14,752 --> 00:54:16,425
+Exactement.
+
+715
+00:54:16,545 --> 00:54:18,388
+Nous allons commencer à danser.
+
+716
+00:54:19,298 --> 00:54:21,426
+Souviens-toi, petit,
+
+717
+00:54:21,550 --> 00:54:23,848
+ce n'est pas la danse de Westeros...
+
+718
+00:54:23,969 --> 00:54:27,724
+Ni la danse du chevalier,
+le hachis ou le martelage.
+
+719
+00:54:28,557 --> 00:54:31,561
+C'est la danse de Braavos...
+
+720
+00:54:33,145 --> 00:54:34,772
+la danse de l'eau.
+
+721
+00:54:34,897 --> 00:54:37,275
+Elle est vive...
+
+722
+00:54:37,399 --> 00:54:39,572
+et subite.
+
+723
+00:54:41,153 --> 00:54:43,201
+Tous les hommes sont faits d'eau.
+
+724
+00:54:43,322 --> 00:54:45,541
+Le savais-tu ?
+
+725
+00:54:45,657 --> 00:54:47,876
+Si tu les transperces,
+
+726
+00:54:47,993 --> 00:54:51,247
+l'eau fuit et ils meurent.
+
+727
+00:54:52,581 --> 00:54:55,755
+À présent, essaie de me frapper.
+
+728
+00:55:12,434 --> 00:55:13,856
+Debout !
+
+729
+00:55:33,455 --> 00:55:35,128
+Mort.
+
+730
+00:55:36,959 --> 00:55:37,960
+Mort.
+
+731
+00:55:42,422 --> 00:55:44,516
+Complètement mort.
+
+732
+00:55:45,300 --> 00:55:46,301
+Viens.
+
+733
+00:55:52,641 --> 00:55:54,518
+Encore, plus rapide.
+
