@@ -28,5 +28,5 @@ for i, c in zip(infinitif, conjugaison):
 
 plt.xlim(min(x) - 5, max(x) + 5)
 plt.ylim(min(y) - 5, max(y) + 5)
-plt.savefig("tsne-pays-capitales.png")
+plt.savefig("tsne-verbes.png")
 plt.show()
