@@ -2,7 +2,6 @@
 # Cours de M2 Data Sciences
 
 Traitement Automatique de la Langue Naturelle. Le calendrier est décrit ci-dessous.
-<a href="https://github.com/AntoineSimoulin/m2-data-sciences/raw/master/Cours%201%20-%20Mod%C3%A9lisation%20statistique%20du%20langage/Fr%C3%A9quences%20des%20mots.ipynb" download="myimage"><img src="https://www.svgrepo.com/show/349485/python.svg" width="15" height="15" /></a>
 
 | Séance | Thèmes | TP / Exercises | Slides |
 |:---:|---|:---:|:---:|
