@@ -1,7 +1,11 @@
 
 # Cours de M2 Data Sciences
 
-Traitement Automatique de la Langue Naturelle. Le calendrier est décrit ci-dessous.
+Ce cours fait partie du Master 2 Mathématiques et Informatique pour la Data Science ([M2 MIDS](https://m2mids.github.io/m2mids/)) de l'université de Paris. Le cours introduit les méthodes statistiques de Traitement Automatique de la Langue Naturelle. Les méthodes de Deep Learning ne sont abordées que dans des cours ultérieurs.
+
+## Calendrier
+
+Le calendrier des séances est décrit ci-dessous.
 
 | Séance | Thèmes | TP / Exercises | Slides |
 |:---:|---|:---:|:---:|
@@ -13,3 +17,83 @@ Traitement Automatique de la Langue Naturelle. Le calendrier est décrit ci-dess
 | Cours **#3** | Modélisation de séquences de mots : modèles de langue. Application à la génération de texte | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntoineSimoulin/m2-data-sciences/blob/master/Cours%203%20-%20Language%20Models/Mod%C3%A8les%20de%20langues.ipynb) | <a href="https://github.com/AntoineSimoulin/m2-data-sciences/tree/master/Cours%203%20-%20Language%20Models/Cours_3.pdf"> <img src=https://www.svgrepo.com/show/255820/ppt.svg width="15" height="15"></a>  |
 | Cours **#4** | Ouverture sur les méthodes de Deep Learning pour le NLP (RNN, Seq2Seq, Attention, Bert) Application au systèmes de Q&A | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntoineSimoulin/m2-data-sciences/blob/master/Cours%204%20-%20Introduction%20NLP%20%26%20Deep%20Learning/Bert_QA[COLAB].ipynb)|  <a href="https://github.com/AntoineSimoulin/m2-data-sciences/tree/master/Cours%204%20-%20Introduction%20NLP%20%26%20Deep%20Learning/Cours_4.pdf"> <img src=https://www.svgrepo.com/show/255820/ppt.svg width="15" height="15"></a>  |
 
+## Comment l'utiliser ?
+
+### 💻 En local
+
+Si vous souhaitez exécuter le TP sur votre ordinateur, voici une procédure rapide pour installer Python et les librairies requises. Ca évitera d’avoir des problèmes de version de librairies qui interfère avec d’autres cours ou projets.
+
+Pour installer Python, je vous conseille d’utiliser Anaconda :
+* https://www.anaconda.com/products/individual (~450 MB)
+* Sélectionnez l’installation correspondent à votre système d’exploitation et “64-Bit Graphical Installer”
+* Suivez les instructions pour installer Anaconda.
+
+Pour les librairies, je vous conseille de créer un environnement virtuel python pour l’ensemble du cours :
+  
+Ouvrez un terminal et tapez la commande suivante :
+```bash
+conda create -n nlp-101 python=3.6
+```
+
+Vous pouvez activer l’environnement avec la commande suivante
+```bash
+conda activate nlp-101
+```
+
+Si vous utilisez [jupyter-lab](https://jupyterlab.readthedocs.io/en/stable/), vous pouvez répertorier l’environement:
+
+```bash
+conda install ipykernel
+ipython kernel install --user --name='nlp-101'
+```
+
+Nous allons installer les librairies avec le gestionnaire pip. Vérifiez que la version utilisée est bien celle associée à anaconda :
+```bash
+pip show pip
+```
+Puis mettez le à jour :
+```bash
+pip install --upgrade pip
+```
+
+Installez les librairies suivantes :
+```bash
+pip install scikit-learn==0.23.2
+pip install matplotlib==3.3.2
+pip install pandas==1.1.3
+pip install lime==0.2.0
+pip install umap-learn==0.4.6
+pip install umap-learn[plot] 
+pip install nltk==3.5
+pip install spacy==2.3.2
+pip install --upgrade jupyter
+pip install unidecode
+```
+
+Vous pouvez vérifier que chaque package est bien installé avec la commande :
+```bash
+python -c "import sklearn; print(sklearn.__version__)"
+```
+
+Finalement téléchargez le modèle Spacy français :
+```bash
+python3 -m spacy download fr_core_news_md
+```
+
+### ☁️ Google Colab
+
+Si vous disposez d'un compte Google, vous pouvez également éxécuter l'ensemble des TPs et exercices sur l'interface [Google Colab](https://colab.research.google.com/).
+
+### 🐳 Docker
+
+Il est également possible de faire tourner un serveur jupyter dans un Docker. L'avantage est que ce dernier tournera dans un environnement virtuel en grande partie indépendant des contraintes de votre machine. Par exemple de votre installation python ou de votre système d'exploitation.
+
+Pour cela, installez [Docker Desktop](https://www.docker.com/products/docker-desktop) (c'est gratuit pour les utilisation non professionnelles). Vous pouvez ensuite cloner le répertoire et construire l'image Docker. Pour cela ouvrez un terminal et exécuter les commandeds suivantes :
+
+```bash
+git clone git@github.com:AntoineSimoulin/m2-data-sciences.git
+cd m2-data-sciences
+git pull
+docker build -t m2-data-sciences .
+docker run -p 8888:8888 m2-data-sciences
+```
