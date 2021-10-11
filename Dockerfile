@@ -23,7 +23,7 @@ COPY . .
 RUN pip install --upgrade pip
 RUN pip3 install -r requirements.txt
 
-# RUN python3 -m spacy download fr_core_news_md
+RUN python3 -m spacy download fr_core_news_md
 
 # Switch back to jovyan to avoid accidental container runs as root
 USER $NB_UID

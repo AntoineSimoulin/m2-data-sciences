@@ -21,26 +21,17 @@ Le calendrier des séances est décrit ci-dessous.
 
 ### 💻 En local
 
-Si vous souhaitez exécuter le TP sur votre ordinateur, voici une procédure rapide pour installer Python et les librairies requises. Ca évitera d’avoir des problèmes de version de librairies qui interfère avec d’autres cours ou projets.
+Si vous souhaitez exécuter le TP sur votre ordinateur, voici une procédure rapide pour installer Python et les librairies requises. Ca évitera d’avoir des problèmes de version de librairies qui interfère avec d’autres cours ou projets. Pour installer Python, je vous conseille d’utiliser [Anaconda](https://www.anaconda.com/products/individual) (~450 MB). Sélectionnez l’installation correspondent à votre système d’exploitation et “64-Bit Graphical Installer” puis suivez les instructions pour installer Anaconda.
 
-Pour installer Python, je vous conseille d’utiliser Anaconda :
-* https://www.anaconda.com/products/individual (~450 MB)
-* Sélectionnez l’installation correspondent à votre système d’exploitation et “64-Bit Graphical Installer”
-* Suivez les instructions pour installer Anaconda.
+Pour les librairies, je vous conseille de créer un environnement virtuel python pour l’ensemble du cours. Ouvrez un terminal et tapez la commande suivante :
 
-Pour les librairies, je vous conseille de créer un environnement virtuel python pour l’ensemble du cours :
-  
-Ouvrez un terminal et tapez la commande suivante :
 ```bash
 conda create -n nlp-101 python=3.6
-```
-
-Vous pouvez activer l’environnement avec la commande suivante
-```bash
+# Vous pouvez activer l’environnement avec la commande suivante
 conda activate nlp-101
 ```
 
-Si vous utilisez [jupyter-lab](https://jupyterlab.readthedocs.io/en/stable/), vous pouvez répertorier l’environement:
+Si vous utilisez [jupyter-lab](https://jupyterlab.readthedocs.io/en/stable/), vous pouvez répertorier l’environement :
 
 ```bash
 conda install ipykernel
@@ -61,13 +52,13 @@ Installez les librairies suivantes :
 pip install scikit-learn==0.23.2
 pip install matplotlib==3.3.2
 pip install pandas==1.1.3
-pip install lime==0.2.0
+pip install lime==0.2.0.1
 pip install umap-learn==0.4.6
 pip install umap-learn[plot] 
 pip install nltk==3.5
 pip install spacy==2.3.2
 pip install --upgrade jupyter
-pip install unidecode
+pip install unidecode==1.3.2
 ```
 
 Vous pouvez vérifier que chaque package est bien installé avec la commande :
