@@ -22,6 +22,7 @@ COPY . .
 
 RUN pip install --upgrade pip
 RUN pip3 install -r requirements.txt
+RUN pip3 install --no-deps pyLDAvis==3.3.1 funcy==1.16
 
 RUN python3 -m spacy download fr_core_news_md
 
