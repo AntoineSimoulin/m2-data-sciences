@@ -48,3 +48,4 @@ def draw_pdf_contours(dist, nlevels=200, subdiv=8, **kwargs):
     plt.xlim(0, 1)
     plt.ylim(0, 0.75**0.5)
     plt.axis('off')
+    plt.show();
