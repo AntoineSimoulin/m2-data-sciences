@@ -49,7 +49,7 @@ pip install --upgrade pip
 
 Installez les librairies suivantes :
 ```bash
-pip install scikit-learn==0.23.2 matplotlib==3.3.2 pandas==1.1.3 lime==0.2.0.1 unidecode==1.3.2 umap-learn==0.4.6 umap-learn[plot] nltk==3.5 spacy==2.3.2
+pip install scikit-learn==0.23.2 matplotlib==3.3.2 pandas==1.1.3 lime==0.2.0.1 unidecode==1.3.2 umap-learn==0.4.6 umap-learn[plot] nltk==3.5 spacy==2.3.2 gensim==3.8.1
 pip install --no-deps pyLDAvis==3.3.1 funcy==1.16
 pip install --upgrade jupyter
 ```
